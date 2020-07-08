@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to knhost"
 date:   2020-07-08 12:49:11 +0530
 categories: jekyll update
 ---
